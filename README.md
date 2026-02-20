@@ -1,48 +1,60 @@
-# ¡Hola! Soy Aynor 👋
+<h1 align="center">👋 Hola, soy Aynor</h1>
 
-### 🚀 Desarrollador apasionado por resolver problemas con código y crear soluciones que impacten 🚀
+<h3 align="center">💻 Web Developer | Backend en formación | 🇵🇪 Perú</h3>
 
-Soy un programador con un enfoque fuerte en el desarrollo web y la optimización de procesos mediante el uso de tecnologías modernas. Me encanta el aprendizaje continuo y estoy siempre en busca de nuevos desafíos que me ayuden a crecer tanto personal como profesionalmente. Me especializo en lenguajes como **Java**, **Python**, **JavaScript**, y frameworks como **React** y **Bootstrap**.
-
----
-
-### 💻 Habilidades Técnicas:
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Basic-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Apasionado+por+la+tecnología;Construyendo+soluciones+con+código;Aprendiendo+Backend+y+Node.js;Siempre+listo+para+nuevos+retos" />
 </p>
 
 ---
 
-### 🔥 Estadísticas:
+## 🚀 Sobre mí
+
+Soy un desarrollador enfocado en crear soluciones eficientes y optimizar procesos utilizando tecnologías modernas.  
+Me motiva el aprendizaje constante y actualmente estoy fortaleciendo mis habilidades en desarrollo backend para construir aplicaciones más robustas y escalables.
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AynorEL&show_icons=true&theme=radical" alt="Aynor's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AynorEL&layout=compact&theme=radical" alt="Aynor's Most Used Languages" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,html,css,bootstrap,nodejs,git,github,vscode" />
 </p>
 
 ---
 
-### 🌱 En progreso:
-- Actualmente profundizando en **Node.js** y **API RESTful** para backend.
+## 📊 Estadísticas
 
----
-
-### 🌐 Conecta conmigo:
 <p align="center">
-  <a href="https://www.facebook.com/profile.php?id=100036158443402&mibextid=ZbWKwL"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://www.linkedin.com/in/aynor"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/aynor"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AynorEL&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AynorEL&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AynorEL&theme=tokyonight" />
 </p>
 
 ---
 
-### 📍 Ubicación:
+## 🌱 Actualmente aprendiendo
+
+- ⚡ Node.js  
+- 🔗 APIs REST  
+- 🗄️ Bases de datos y arquitectura backend  
+
+---
+
+## 🌎 Conecta conmigo
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Perú-FF0000?style=for-the-badge&logo=flag&logoColor=white" />
+  <a href="https://www.linkedin.com/in/aynor">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://twitter.com/aynor">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
 </p>
+
+---
+
+<h3 align="center">⭐ Siempre abierto a colaborar en proyectos y oportunidades remotas</h3>
