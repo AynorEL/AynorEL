@@ -1,60 +1,60 @@
-<h1 align="center">👋 Hola, soy Aynor</h1>
+# Aynor Espinoza
 
-<h3 align="center">💻 Web Developer | Backend en formación | 🇵🇪 Perú</h3>
+### Desarrollador web junior · Técnico en Computación e Informática
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Apasionado+por+la+tecnología;Construyendo+soluciones+con+código;Aprendiendo+Backend+y+Node.js;Siempre+listo+para+nuevos+retos" />
-</p>
+Desarrollo aplicaciones web orientadas a resolver necesidades de gestión, comercio y educación. Mi experiencia combina proyectos académicos con soporte técnico y mantenimiento de equipos.
 
----
+📍 Áncash, Perú · ✉️ [espinozaleonaynor@gmail.com](mailto:espinozaleonaynor@gmail.com)
 
-## 🚀 Sobre mí
+## Sobre mí
 
-Soy un desarrollador enfocado en crear soluciones eficientes y optimizar procesos utilizando tecnologías modernas.  
-Me motiva el aprendizaje constante y actualmente estoy fortaleciendo mis habilidades en desarrollo backend para construir aplicaciones más robustas y escalables.
+Soy egresado de Computación e Informática del I.E.S.T.P. San Marcos (2022–2024). He trabajado en proyectos con PHP, React, Next.js y bases de datos relacionales, además de realizar mantenimiento de equipos y redes.
 
----
+Me interesa incorporarme a un equipo donde pueda contribuir al desarrollo web, aprender de la revisión de código y seguir mejorando la calidad de mis aplicaciones.
 
-## 🛠️ Tecnologías y Herramientas
+## Proyectos destacados
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,html,css,bootstrap,nodejs,git,github,vscode" />
-</p>
+| Proyecto | Alcance | Tecnologías |
+| --- | --- | --- |
+| [Sistema de certificados](https://github.com/AynorEL/Sistema_Certicado) | Gestión de cursos e inscripciones, generación de certificados PDF y herramientas de validación con QR. | PHP, MySQL, Bootstrap, JavaScript |
+| [Sistema de gestión hotelera](https://github.com/AynorEL/SistemaWebHotel) | Proyecto académico con módulos de usuarios, habitaciones y reservas. | PHP, MySQL, Bootstrap |
+| [Flores](https://github.com/AynorEL/Flores) | Experiencia web con animaciones de flores y efectos visuales. | HTML, CSS, JavaScript |
 
----
+Estos repositorios muestran proyectos en desarrollo y aprendizaje. Continúo trabajando en su seguridad, documentación y funcionalidades pendientes.
 
-## 📊 Estadísticas
+### Otros proyectos
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AynorEL&theme=tokyonight" />
-</p>
+- **Tienda virtual agropecuaria:** proyecto académico con React, Next.js, Tailwind CSS y MySQL; incluye catálogo, carrito y autenticación. Repositorio privado.
+- **Inventario de equipos:** proyecto académico con Visual Basic y SQL Server para registrar más de 150 equipos y periféricos.
+- **Conversor de audio:** herramienta con interfaz gráfica en Python y FFmpeg para convertir archivos a MP3. Repositorio privado.
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AynorEL&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AynorEL&theme=tokyonight" />
-</p>
+## Tecnologías
 
----
+- **Lenguajes:** PHP, JavaScript, TypeScript, SQL, Python, Visual Basic y Java.
+- **Desarrollo web:** React, Next.js, HTML, CSS, Tailwind CSS y Bootstrap.
+- **Bases de datos:** MySQL y SQL Server.
+- **Herramientas:** Git, GitHub, XAMPP y WordPress.
+- **Soporte técnico:** mantenimiento de equipos, actualización de hardware y software, y configuración de redes.
 
-## 🌱 Actualmente aprendiendo
+## Experiencia y formación
 
-- ⚡ Node.js  
-- 🔗 APIs REST  
-- 🗄️ Bases de datos y arquitectura backend  
+**Soporte técnico · I.E.S.T.P. San Marcos**  
+Julio–diciembre de 2022
 
----
+Mantenimiento de 30 equipos y apoyo en redes, con actualizaciones de hardware y software para mejorar su funcionamiento.
 
-## 🌎 Conecta conmigo
+**Computación e Informática · I.E.S.T.P. San Marcos**  
+2022–2024
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aynor">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://twitter.com/aynor">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-</p>
+## En qué estoy trabajando
 
----
+- Reforzar la autenticación y los permisos de mis aplicaciones.
+- Incorporar pruebas para las funciones principales.
+- Mejorar las instrucciones de instalación y las demostraciones de mis proyectos.
+- Profundizar en APIs REST y desarrollo backend.
 
-<h3 align="center">⭐ Siempre abierto a colaborar en proyectos y oportunidades remotas</h3>
+## Contacto
+
+Busco oportunidades como desarrollador web junior o técnico de soporte.
+
+[Escríbeme por correo](mailto:espinozaleonaynor@gmail.com)
