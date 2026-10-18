@@ -58,3 +58,5 @@ Mantenimiento de 30 equipos y apoyo en redes, con actualizaciones de hardware y 
 Busco oportunidades como desarrollador web junior o técnico de soporte.
 
 [Escríbeme por correo](mailto:espinozaleonaynor@gmail.com)
+
+[Conecta conmigo en LinkedIn](https://pe.linkedin.com/in/aynor-espinoza-leon-68199931b)
