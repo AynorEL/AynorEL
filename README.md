@@ -18,10 +18,6 @@ Proyecto académico con módulos de usuarios, habitaciones y reservas.
 
 **Tecnologías:** PHP · MySQL · Bootstrap
 
-### [Flores](https://github.com/AynorEL/Flores)
-Experiencia web con animaciones de flores y efectos visuales.
-
-**Tecnologías:** HTML · CSS · JavaScript
 
 Los proyectos se encuentran en desarrollo; sus módulos y funcionalidades tienen distintos niveles de avance.
 
